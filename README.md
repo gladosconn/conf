@@ -1,2 +1,2 @@
 # Stores all configurations
-Clone a install.
+Just clone and ```cd home && ./install.sh```
